@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59a4f55b-1dda-4646-b5d9-34f9ac83632e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANDRES GONZALES/IdeaProjects/OpenBootCamp&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ANDRES GONZALES/IdeaProjects/OpenBootCamp",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.interfaces.Main">
     <configuration name="Concatenar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javabasico.Concatenar" />
@@ -88,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javabasico.TiposDeDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TiposDeDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javabasico.TiposDeDatos" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
@@ -120,7 +122,6 @@
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Concatenar" />
         <item itemvalue="Application.PrecioMasIVA" />
-        <item itemvalue="Application.com.javabasico.TiposDeDatos" />
       </list>
     </recent_temporary>
   </component>
@@ -145,16 +146,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/interfaces/CocheCRUDImpl.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
