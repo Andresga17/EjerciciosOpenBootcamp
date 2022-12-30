@@ -1,4 +1,4 @@
-package com.javabasico;
+package temas.siete.ocho.nueve;
 
 /*
 Dada la funcion reverse Escribe el codigo que devuelva una cadena al revers. Por

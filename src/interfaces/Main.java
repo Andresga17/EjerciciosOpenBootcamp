@@ -1,6 +1,6 @@
 package interfaces;
 
-import com.javabasico.ArrayExercise;
+import temas.siete.ocho.nueve.ArrayExercise;
 
 public class Main {
     public static void main(String[] args) {
