@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="59a4f55b-1dda-4646-b5d9-34f9ac83632e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temas/siete/ocho/nueve/ArrayBidi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/temas/siete/ocho/nueve/ArrayBidi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayBidi">
+  <component name="RunManager" selected="Application.VectorExcercise">
     <configuration name="ArrayBidi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="temas.siete.ocho.nueve.ArrayBidi" />
       <module name="OpenBootCamp" />
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concatenar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasico.Concatenar" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.smartdevices.Main" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="temas.siete.ocho.nueve.*" />
+          <option name="PATTERN" value="poo.smartdevices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.smartdevices.Main" />
+    <configuration name="VectorExcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temas.siete.ocho.nueve.VectorExcercise" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poo.smartdevices.*" />
+          <option name="PATTERN" value="temas.siete.ocho.nueve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VectorExcercise" />
         <item itemvalue="Application.ArrayBidi" />
         <item itemvalue="Application.ArrayUni" />
         <item itemvalue="Application.interfaces.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Concatenar" />
       </list>
     </recent_temporary>
   </component>

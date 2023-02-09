@@ -1,6 +1,7 @@
 package interfaces;
 
 import temas.siete.ocho.nueve.ArrayExercise;
+import temas.siete.ocho.nueve.VectorExcercise;
 
 public class Main {
     public static void main(String[] args) {
