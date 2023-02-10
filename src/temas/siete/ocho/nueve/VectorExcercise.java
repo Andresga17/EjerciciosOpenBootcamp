@@ -18,8 +18,21 @@ public class VectorExcercise {
         names.remove(1);
         names.remove(2);
         System.out.println(names);
+
+        /*
+         * 4. El problema de tener que agregar mil elementos al mismo tiempo en un vector es que su capaciddad su diplicaria cada que
+         * se alcance el tamaño actual del vector
+         */
+        Vector <Integer> numbers = new Vector ();
+
+        for (int i = 1; i <= 1000; i++) {
+            numbers.add(i);
+        }
+        int capacidad = numbers.capacity();
+        System.out.println(capacidad);
+        System.out.println(numbers);
     }
 
-}
 
+}
 
