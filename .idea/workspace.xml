@@ -54,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListNumbers">
+  <component name="RunManager" selected="Application.DividirPorCero">
     <configuration name="ArrayBidi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="temas.siete.ocho.nueve.ArrayBidi" />
       <module name="OpenBootCamp" />
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayUni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temas.siete.ocho.nueve.ArrayUni" />
+    <configuration name="DividirPorCero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temas.siete.ocho.nueve.DividirPorCero" />
       <module name="OpenBootCamp" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DividirPorCero" />
         <item itemvalue="Application.ArrayListNumbers" />
         <item itemvalue="Application.ArrayListExcercise" />
         <item itemvalue="Application.VectorExcercise" />
         <item itemvalue="Application.ArrayBidi" />
-        <item itemvalue="Application.ArrayUni" />
       </list>
     </recent_temporary>
   </component>
